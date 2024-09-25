@@ -1,9 +1,9 @@
 # Portfolio-
-My Portfolio
+# My Portfolio
 Description
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and provides a contact form to get in touch with me. The portfolio dynamically loads project data using JavaScript and includes smooth scrolling for navigation. It’s designed to be simple and responsive.
 
-Features
+# Features
 Dynamic Project Section: Projects are displayed dynamically from a JavaScript array, making it easy to update or modify.
 Responsive Design: The website is mobile-friendly and adapts to different screen sizes.
 Smooth Scrolling: The page provides smooth transitions between sections.
