@@ -45,8 +45,7 @@ const projects = [
     // Add more projects as needed
 ];
 # Demo
-You can check out the live demo of the portfolio [here] (file:///C:/Users/247386/OneDrive/Desktop/my-portfolio/index.html)
-
+You can check out the live demo of the portfolio [here](https://nehatembhe.github.io/Portfolio-/)
 # Contributing
 If you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
 
